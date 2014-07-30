@@ -1,0 +1,75 @@
+
+  body
+  {margin-left: 10%; margin-right: 10%;}
+
+  p
+  {text-align: justify;}
+
+  blockquote
+  {text-align: justify;}
+
+  h1,h2,h3,h4,h5,h6
+  {text-align: center;}
+
+  hr
+  {text-align: center; width: 50%;}
+
+  html>body hr
+  {margin-right: 25%; margin-left: 25%; width: 50%;}
+
+  hr.full
+  {width: 100%;}
+  html>body hr.full
+  {margin-right: 0%; margin-left: 0%; width: 100%;}
+
+  pre
+  {font-size: 0.7em; color: #000; background-color: #FFF;}
+
+  .poetry
+  {margin-left: 10%; margin-right: 0%;
+  text-align: left;}
+
+  .footnote
+  {margin-left: 10%; margin-right: 10%;
+  font-size: 0.9em;}
+
+  .index
+  {margin-left: 10%; margin-right: 10%;
+  text-align: center;}
+
+  .figure
+  {margin-left: 5%; margin-right: 5%;
+  text-align: center; font-size: 0.8em;}
+  .figure img
+  {border: none;}
+
+  .lfigure
+  {float:left; width: 25%; margin-left: 5%; margin-right: 5%;
+  text-align: center; font-size: 0.8em;}
+  .lfigure img
+  {border: none;}
+
+  .rfigure
+  {float:right; width: 25%; margin-left: 5%; margin-right: 5%;
+  text-align: center; font-size: 0.8em;}
+  .rfigure img
+  {border: none;}
+
+  .date
+  {margin-left: 10%; margin-right: 10%;
+  text-align: right;}
+
+  span.rightnote
+  {position: absolute; left: 92%; right: 1%;
+  font-size: 0.7em; border-bottom: solid 1px;}
+
+  span.leftnote
+  {position: absolute; left: 1%; right: 92%;
+  font-size: 0.7em; border-bottom: solid 1px;}
+
+  span.linenum
+  {float:right;
+  text-align: right; font-size: 0.7em;}
+
+  span.pagenum
+  {position: absolute; left: 1%; right: 91%; font-size: 8pt;}
