@@ -1,0 +1,31 @@
+_repo: The-People-s-Common-Sense-Medical-Adviser-in-Plain-Englishand-Fifty-Thousand_18467
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pierce, Ray Vaughn
+    birthdate: 1840
+    deathdate: 1914
+    gutenberg_agent_id: '8047'
+    url: http://www.gutenberg.org/2009/agents/8047
+description: ''
+gutenberg_bookshelf: Medicine
+gutenberg_issued: '2006-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18467'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RC'
+- !lcsh 'Medicine, Popular'
+title: 'The People''s Common Sense Medical Adviser in Plain English
+
+  or, Medicine Simplified, 54th ed., One Million, Six Hundred
+
+  and Fifty Thousand'
+url: http://www.gutenberg.org/ebooks/18467
