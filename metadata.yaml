@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8047'
     url: http://www.gutenberg.org/2009/agents/8047
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18467#The-People-s-Common-Sense-Medical-Adviser-in-Plain-Englishand-Fifty-Thousand
 gutenberg_bookshelf: Medicine
 gutenberg_issued: '2006-05-28'
 gutenberg_type: Text
